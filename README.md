@@ -15,7 +15,7 @@ Ensure you have .NET Framework 4.6.2 or higher installed.
 Clone the repository using Git:
 
 ``` csharp
-git clone https://github.com/ePotok22/Clipboard.git
+git clone https://github.com/fff-fm-404/Clipboard.git
 ```
 
 Build the project:
